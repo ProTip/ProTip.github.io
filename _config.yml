@@ -24,6 +24,9 @@ url: "https://protip.io" # the base hostname & protocol for your site, e.g. http
 # twitter_username: jekyllrb
 github_username:  protip
 
+disqus:
+  shortname: protip.io
+
 # highlighter: pygments
 # Build settings
 markdown: kramdown
